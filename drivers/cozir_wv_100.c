@@ -5,7 +5,7 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/cozir_wv_100.h"
+#include "./cozir_wv_100.h"
 #include "string.h"
 
 static struct usart_module COZIR_WV_100_uart;

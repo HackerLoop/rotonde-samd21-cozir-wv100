@@ -6,8 +6,8 @@
  */ 
 
 
-#include "modules/drivers/cozir_wv_100.h"
-#include "modules/modules/cozir_wv_100.h"
+#include "../drivers/cozir_wv_100.h"
+#include "./cozir_wv_100.h"
 
 #include "registrar/registrar.h"
 #include "tasks/modules.h"
